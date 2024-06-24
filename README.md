@@ -1,10 +1,10 @@
 Software Developer. Interested in everything that makes the web work
-Front-End (Angular, HTML5/CSS3, Bootstrap)
+Front-End (Angular, React, Next.js, Blazor...)
 Back-End (C# .NET FW/Core)
 DB(SQL/MongoDB)
 
 Entity Framework, LINQ
-AzureDevOps/Jira
+Azure DevOps/Jira
 Git/TFS
 REST API, MVC, Web Services
 
